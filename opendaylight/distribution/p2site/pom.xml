@@ -223,6 +223,11 @@
                   <override>false</override>
                 </artfiact>
                 <artfiact>
+                  <id>com.googlecode.json-simple:json-simpl:1.1</id>
+                  <transitive>false</transitive>
+                  <override>false</override>
+                </artfiact>
+                <artfiact>
                   <id>com.google.code.gson:gson:2.1</id>
                   <transitive>false</transitive>
                   <override>false</override>

@@ -18,6 +18,7 @@
 
   <properties>
 
+    <jsonsimple.version>1.1.1</jsonsimple.version>
     <akka.version>2.3.4</akka.version>
     <aopalliance.version>1.0.0</aopalliance.version>
     <appauth.version>0.4.2-SNAPSHOT</appauth.version>
@@ -298,6 +299,11 @@
         <groupId>com.google.code.findbugs</groupId>
         <artifactId>jsr305</artifactId>
         <version>${jsr305.api.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.googlecode.json-simple</groupId>
+        <artifactId>json-simple</artifactId>
+        <version>${jsonsimple.version}</version>
       </dependency>
       <dependency>
         <groupId>com.google.code.gson</groupId>
