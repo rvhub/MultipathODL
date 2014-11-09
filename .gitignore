@@ -26,6 +26,7 @@ out/
 .externalToolBuilders
 maven-eclipse.xml
 .DS_STORE
+.DS_Store
 .metadata
 opendaylight/md-sal/sal-distributed-datastore/journal
 !opendaylight/distribution/opendaylight-karaf-resources/src/main/resources/bin
